@@ -25,8 +25,7 @@
 
 # операція in (в)
 
-# users = ["Serhii", "Andrew", "Oleg"]
-# user = "Serhii"
-#
-# print(user in users)
+users = ["Serhii", "Andrew", "Oleg"]
+user = "Serhii"
 
+print(user in users)
